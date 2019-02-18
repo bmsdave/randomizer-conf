@@ -1,0 +1,11 @@
+{
+  "name": "reactamsterdam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "random.js",
+  "scripts": {
+    "test": "node ./random.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
